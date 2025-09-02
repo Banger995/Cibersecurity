@@ -1,19 +1,23 @@
-Wireshark – análisis de datos y trafico de red.
-PCAP files: abre archivos PCAP
-Traffic Sniffing: captura el trafico
-Merge Files: fusiona archivos
-File Comments: para leer los comentarios
-TTL (Time To Live)
-Find Packet: Busca paquetes
-Export Objects: solo para protocolos HTTP, DICOM, IMF, SMB Y TFTP
-Time Display Format: para organizar las fechas y horas (usar UTC date and time)
-Tipos de colores y significados:
-•	Azul Oscuro: flujo normal
-•	Azul Claro: errores de código
-•	Amarillo: problemas unusuales
-•	Rojo: paquetes malformados
-Conversation Filter para filtrar protocolos, i.e TCP
-Colorise Conversation: para colorear los protocolos
-Apply as Column: ordena los protocolos
-Follow Stream: sigues la conversación cliente-servidor
-Go To Packet: te redirige a un paquete
+### Wireshark – análisis de datos y tráfico de red
+
+- **PCAP files**: abre archivos PCAP  
+- **Traffic Sniffing**: captura el tráfico  
+- **Merge Files**: fusiona archivos  
+- **File Comments**: para leer los comentarios  
+- **TTL (Time To Live)**  
+- **Find Packet**: busca paquetes  
+- **Export Objects**: solo para protocolos HTTP, DICOM, IMF, SMB y TFTP  
+- **Time Display Format**: para organizar las fechas y horas (usar UTC date and time)
+
+#### Tipos de colores y significados  
+- **Azul oscuro**: flujo normal  
+- **Azul claro**: errores de código  
+- **Amarillo**: problemas inusuales  
+- **Rojo**: paquetes malformados
+
+#### Funcionalidades adicionales  
+- **Conversation Filter**: filtrar protocolos, p. ej., TCP  
+- **Colorise Conversation**: colorear los protocolos  
+- **Apply as Column**: ordena los protocolos  
+- **Follow Stream**: seguir conversación cliente-servidor  
+- **Go To Packet**: ir a un paquete específico  
